@@ -1,1 +1,3 @@
-# getpay-id.github.io
+# Getpay
+
+Belum juga mulai ngerjain, udah kena mental duluan.
